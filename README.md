@@ -1,2 +1,3 @@
 # JS_TodoList
- JavaScript To do List
+
+JavaScript To do List App Project
