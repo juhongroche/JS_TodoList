@@ -1,3 +1,3 @@
 # JS_TodoList
 
-JavaScript To do List App Project
+Using JavaScript to build To Do List with a local storage
